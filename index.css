@@ -686,7 +686,7 @@
 .hero17-column {
   gap: var(--dl-layout-space-oneandhalfunits);
   width: auto;
-  height: 257px;
+  height: auto;
   display: flex;
   align-items: center;
   flex-direction: column;
